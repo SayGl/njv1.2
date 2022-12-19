@@ -1,5 +1,5 @@
 public class FM {
-    public static void main(String[] args) {
+    public static void main() {
         System.out.println("Башҡортостан, hин hөйөклө ғәзиз ер,\n" +
                 "Халҡыбыҙҙың изге Ватаны.\n" +
                 "Сал Уралдан ҡалҡа бар тарафҡа\n" +
@@ -31,7 +31,7 @@ public class FM {
 
     }
 
-    public static void qm(String[] args) {
+    public static void qm() {
         System.out.println("ауф");
     }
 }
