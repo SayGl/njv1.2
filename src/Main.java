@@ -3,7 +3,8 @@ public class Main {
         //System.out.println("Hello world!");
         //FM.main();
         //FM.qm();
-        Peremennie.main();
+        //Peremennie.main();
+        SirLukIliKotleta.main();
     }
 
 }
