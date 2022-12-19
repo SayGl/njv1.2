@@ -1,5 +1,6 @@
 public class SirLukIliKotleta {
     public static void main() {
+        System.out.println("соболев придумывает песню про свой бургер");
         int money = 100;
         if (money <= 100) {
             System.out.println("сыр");
