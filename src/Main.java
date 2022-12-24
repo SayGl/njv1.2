@@ -25,8 +25,12 @@ public class Main {
 //        test test = new test();
 //        int square = test.square(15);
 //        System.out.println(square);
-        test box1 = new test();
-        box1.set(15,15,15);
-        System.out.println(box1.volume());
+//        test box1 = new test();
+//        box1.set(15,15,15);
+//        System.out.println(box1.volume());
+//        test box = new test(10,15,20);
+//        System.out.println(box.volume());
+        konsru lenya = new konsru("Lenya","Meneger",15000);
+        System.out.println(lenya.infa(10));
     }
 }
